@@ -68,3 +68,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+###EMPLIST APP
+This is a simple application in react that displays a list of employees. It should be possible to add / edit / remove an employee.
+
+### This Application is deployed at this url
+https://dadadji.github.io/React-EmpList
+
+### Commands used to install Font awesome:
+$ npm i --save @fortawesome/fontawesome-svg-core
+
+$ npm i --save @fortawesome/free-solid-svg-icons
+
+$ npm i --save @fortawesome/react-fontawesome
+
+### Commands used to install flip animation:
+$ npm i -s react-flip-move
